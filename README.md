@@ -135,9 +135,6 @@ externalNativeBuild {
 }
 ```
 
-## Screenshots
-
-[Add screenshots of the working application here]
 
 ## Known Issues and Limitations
 
